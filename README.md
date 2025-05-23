@@ -1,5 +1,4 @@
 # POE2Smoother
-POE2Snoother Free
 ![rGBLRax](https://github.com/user-attachments/assets/70232c3b-5843-4cf0-99f4-576579f1fa12)
 
 <li> Download the tool from ⁠releases⁠ section, or from here: https://poesmoother.eu/</li>
