@@ -9,7 +9,10 @@
 <li>Check what options you want, and hit apply - wait to finish the work.</li>
 <li>Close the tool and start the game.</li>
 
+
+
 <li>Default STEAM path :</li>
 <li>...\common\Path of Exile\Bundles2 ... _index.bin, (open _index.bin for Steam).</li>
 
-
+Your Antivirus might corrupt your key, it's a rare case, but it might happen. Make sure that you use a good AV!,
+Any PC change, hardware, or software (new OS), will make your key invalid. Please fix your PC before using the key!
