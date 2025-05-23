@@ -13,5 +13,5 @@
 
 Default STEAM path :</li>
 ...\common\Path of Exile\Bundles2 ... _index.bin, (open _index.bin for Steam).
-:x:<li>Your Antivirus might corrupt your key, it's a rare case, but it might happen. Make sure that you use a good AV!,
-:x:<li>Any PC change, hardware, or software (new OS), will make your key invalid. Please fix your PC before using the key!
+:x:<li>Your Antivirus might corrupt your key, it's a rare case, but it might happen. Make sure that you use a good AV!,:x:
+:x:<li>Any PC change, hardware, or software (new OS), will make your key invalid. Please fix your PC before using the key!:x:
