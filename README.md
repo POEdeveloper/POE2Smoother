@@ -1,4 +1,4 @@
-wewewewewewe# POE2Smoother
+# POE2Smoother
 ![rGBLRax](https://github.com/user-attachments/assets/70232c3b-5843-4cf0-99f4-576579f1fa12)
 
 :white_check_mark:<li> Download the tool from ⁠releases⁠ section/</li>
@@ -11,7 +11,7 @@ wewewewewewe# POE2Smoother
 
 
 
-#### Default STEAM path :</li>
+#### Default STEAM path
 ...\common\Path of Exile\Bundles2 ... _index.bin, (open _index.bin for Steam).
 
 :x:Your Antivirus might corrupt your key, it's a rare case, but it might happen. Make sure that you use a good AV!,:x:
